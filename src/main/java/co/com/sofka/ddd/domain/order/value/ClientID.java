@@ -7,7 +7,7 @@ public class ClientID extends Identity {
     public ClientID(){
     }
 
-    private ClientID(String id){
+    public ClientID(String id){
         super(id);
     }
 
