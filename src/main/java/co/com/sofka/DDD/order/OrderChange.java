@@ -1,6 +1,6 @@
 package co.com.sofka.DDD.order;
 
-import co.com.sofka.DDD.kardex.valueObjects.TotalPrice;
+
 import co.com.sofka.DDD.order.domainEvents.*;
 import co.com.sofka.DDD.order.valueObjects.TotalValue;
 import co.com.sofka.domain.generic.EventChange;
